@@ -4,7 +4,7 @@
 
     <groupId>com.devexperts.dgen</groupId>
     <artifactId>dgen</artifactId>
-    <version>1.0</version>
+    <version>1.1-SNAPSHOT</version>
     <name>Dgen - Description generator</name>
     <description>Generates @Description annotation from Javadoc at compile-time</description>
 
@@ -165,7 +165,7 @@
     <scm>
         <connection>scm:git:https://github.com/Devexperts/dgen.git</connection>
         <developerConnection>scm:git:git@github.com:Devexperts/dgen.git</developerConnection>
-        <tag>dgen-1.0</tag>
+        <tag>HEAD</tag>
     </scm>
 
     <distributionManagement>
