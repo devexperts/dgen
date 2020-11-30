@@ -217,13 +217,13 @@ To use with Maven build Dgen should be added as dependency in your **pom.xml**.
 <dependency>
     <groupId>com.devexperts.qd</groupId>
     <artifactId>dxlib</artifactId>
-    <version>3.232</version>
+    <version>3.270</version>
     <scope>compile</scope>
 </dependency>
 ```
 
 Related articles
 ----------------
-[Project Lombock](https://projectlombok.org/)
+[Project Lombok](https://projectlombok.org/)
 
 [The Hacker’s Guide to Javac](http://scg.unibe.ch/archive/projects/Erni08b.pdf)
